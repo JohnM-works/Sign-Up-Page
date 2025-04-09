@@ -1,8 +1,8 @@
 # Sign-Up-Page
 
-<<<<<<< HEAD
-Live Preview:
-=======
-https://jhin47.github.io/Sign-Up-Page/
+# Live Preview:
 
-> > > > > > > 49ee6a4a03787dffed3c7d9822ce2e2507d7e8b1
+https://johnm-works.github.io/Sign-Up-Page/
+
+===
+Hey there! Just a friendly heads up: I used to go by @jhin47 on GitHub. I’m still the same person, just with a new username! 😊
